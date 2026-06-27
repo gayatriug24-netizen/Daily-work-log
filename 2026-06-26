@@ -1,0 +1,76 @@
+# Summary
+
+Today I moved on to learning comparison operators and basic conditional statements in JavaScript. It was a little challenging initially, but after practicing a few examples, I started understanding how decision-making works in programming.
+
+---
+
+## Work Done
+
+### Office
+
+- Revised variables, data types, and arithmetic operators.
+- Learned comparison operators ("==", "===", "!=", ">", "<", ">=", "<=").
+- Started learning "if", "else if", and "else" statements.
+- Practiced a few simple programs based on conditions.
+- Used "console.log()" to check the outputs.
+
+### Personal
+
+- Revisited today's examples after the session.
+- Made notes on comparison operators and conditional statements for future revision.
+
+---
+
+### Technical Learning
+
+- Comparison Operators
+- "if" statement
+- "else if"
+- "else"
+- Boolean expressions
+
+---
+
+### Problems & Solutions
+
+Problem| Solution
+I found it difficult to understand the difference between "==" and "===" at first.| I tested different examples and referred to documentation to understand how both operators behave.
+
+---
+
+### Key Takeaways
+
+- Conditional statements allow a program to make decisions based on different situations.
+- Testing small examples helped me understand the concepts much better.
+
+---
+
+### Professional Growth
+
+My logical thinking is gradually improving as I practice writing condition-based programs.
+
+---
+
+### Personal Growth
+
+I am becoming more comfortable exploring new concepts without feeling overwhelmed.
+
+---
+
+### Tomorrow's Goals
+
+- [ ] Practice more "if-else" programs
+- [ ] Learn logical operators ("&&", "||", "!")
+- [ ] Solve a few beginner JavaScript questions
+
+---
+
+### Reflection
+
+What went well?
+
+I understood the basics of conditional statements and was able to write a few simple examples independently.
+
+What can I improve?
+
+I need more practice with comparison operators so I can use them confidently without referring to my notes.
